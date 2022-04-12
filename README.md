@@ -1,8 +1,11 @@
-### Olá eu sou o Arildo Magno
+### Hello I'm Arildo Magno
 
-- 🔭 Hoje trabalho com Web Full Stack
-- 🌱 Graduando no Instituto Federal de Minas Gerais em Ciência da Computação
-- 📫 Contato: arildodraix@gmail.com
+- 🔭 Today I work with Web Full Stack
+- 🌱 Graduating at the Federal Institute of Minas Gerais in Computer Science
+- 📫 Email: arildodraix@gmail.com
+- :star: Linkedin: 
+
+
 
  <div>
   <a href="https://github.com/ArildoMagno">
