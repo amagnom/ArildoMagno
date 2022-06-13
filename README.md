@@ -2,7 +2,7 @@
 
 - 🔭 Today I work with Web Full Stack
 - 🌱 Graduating at the Federal Institute of Minas Gerais in Computer Science
-- 📫 Email: arildodraix@gmail.com
+- 📫 Email: macedoarildo@hotmail.com
 - :star: Linkedin: www.linkedin.com/in/arildo-magno-3a34a785
 
 
