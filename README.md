@@ -2,7 +2,7 @@
 
 - 🔭 Today I work as Data Analist
 - 🌱 Graduating at the Federal Institute of Minas Gerais in Computer Science
-- 📫 Email: macedoarildo@hotmail.com or arildodraix@gmail.com
+- 📫 Email: arildodraix@gmail.com
 - :star: Linkedin: www.linkedin.com/in/arildo-magno-3a34a785
 
 
