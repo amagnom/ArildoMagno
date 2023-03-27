@@ -9,8 +9,11 @@
 
  <div>
   <a href="https://github.com/ArildoMagno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArildoMagno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <!-- 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArildoMagno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArildoMagno&layout=compact&langs_count=7&theme=dark"/>
+  -->
+ 
 </div>
   
 <div style="display: inline_block"><br>
