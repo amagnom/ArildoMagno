@@ -2,7 +2,6 @@
 
 - 🔭 Today I work as Data Analist
 - 🌱 Graduate at the Federal Institute of Minas Gerais in Computer Science
-- :star: Linkedin: www.linkedin.com/in/arildo-magno-3a34a785
 
 
 
